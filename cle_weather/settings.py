@@ -76,12 +76,12 @@ WSGI_APPLICATION = 'cle_weather.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd4otdh1ies6ajq',
-        'USER': 'smbyoavkxnpgig',
-        'PASSWORD': '244eb84f20e03fb4689bbb2474f4a1ae9973dfe6ce4bfc615da13bbe7336193e',
-        'HOST': 'ec2-3-224-165-85.compute-1.amazonaws.com',
-        'PORT': '5432',
+        'ENGINE': '#',
+        'NAME': '#',
+        'USER': '#',
+        'PASSWORD': '#',
+        'HOST': '#',
+        'PORT': '#',
     }
 }
 
